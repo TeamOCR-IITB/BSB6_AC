@@ -1,0 +1,518 @@
+{
+    "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/Inds/page-405.txt": {
+        "directory": "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/Inds/page-405.txt",
+        "seconds": 0
+    },
+    "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/Inds/page-407.txt": {
+        "directory": "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/Inds/page-407.txt",
+        "seconds": 0
+    },
+    "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/VerifierOutput//page-401.html": {
+        "directory": "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/VerifierOutput//page-401.html",
+        "seconds": 0
+    },
+    "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/VerifierOutput/page-401.html": {
+        "directory": "/home/prasad/Documents/IIT/HSS/Proofreading/Verifier-Version/Sets/TestSet1/VerifierOutput/page-401.html",
+        "seconds": 0
+    },
+    "/home/tripti/TestRepo/CorrectorOutput//page-3.html": {
+        "directory": "/home/tripti/TestRepo/CorrectorOutput//page-3.html",
+        "seconds": 0
+    },
+    "/home/tripti/TestRepo/CorrectorOutput/page-1.html": {
+        "directory": "/home/tripti/TestRepo/CorrectorOutput/page-1.html",
+        "seconds": 0
+    },
+    "/home/tripti/TestRepo/CorrectorOutput/page-3.html": {
+        "directory": "/home/tripti/TestRepo/CorrectorOutput/page-3.html",
+        "seconds": 0
+    },
+    "/home/tripti/TestRepo/Inds/page-1.txt": {
+        "directory": "/home/tripti/TestRepo/Inds/page-1.txt",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/CorrectorOutput/page-2.html": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/CorrectorOutput/page-2.html",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-2.txt": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-2.txt",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-3.txt": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-3.txt",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-4.txt": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-4.txt",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-5.txt": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-5.txt",
+        "seconds": 0
+    },
+    "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-7.txt": {
+        "directory": "C:/Github/new-ver/OpenOCRCorrect/TestProject/Inds/page-7.txt",
+        "seconds": 0
+    },
+    "C:/Users/BALAKRISHNAN/Desktop/TestSet1/CorrectorOutput/page-401.html": {
+        "directory": "C:/Users/BALAKRISHNAN/Desktop/TestSet1/CorrectorOutput/page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/CorrectorOutput/page-401.html": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/CorrectorOutput/page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/CorrectorOutput/page-402.html": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/CorrectorOutput/page-402.html",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/Inds/page-401.txt": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/Inds/page-401.txt",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/Inds/page-402.txt": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/Inds/page-402.txt",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/Inds/page-403.txt": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/Inds/page-403.txt",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/Inds/page-407.txt": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/Inds/page-407.txt",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/Inds/page-425.txt": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/Inds/page-425.txt",
+        "seconds": 0
+    },
+    "C:/Users/Kiran/Desktop/TestSet1/VerifierOutput/page-401.html": {
+        "directory": "C:/Users/Kiran/Desktop/TestSet1/VerifierOutput/page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/Tripti/Desktop/IITB/OpenOCR-Testing-20200829T092619Z-001/OpenOCR-Testing/TestRepo/CorrectorOutput/page-1.html": {
+        "directory": "C:/Users/Tripti/Desktop/IITB/OpenOCR-Testing-20200829T092619Z-001/OpenOCR-Testing/TestRepo/CorrectorOutput/page-1.html",
+        "seconds": 0
+    },
+    "C:/Users/Tripti/Desktop/IITB/OpenOCR-Testing-20200829T092619Z-001/OpenOCR-Testing/TestRepo/Inds/page-1.txt": {
+        "directory": "C:/Users/Tripti/Desktop/IITB/OpenOCR-Testing-20200829T092619Z-001/OpenOCR-Testing/TestRepo/Inds/page-1.txt",
+        "seconds": 0
+    },
+    "C:/Users/Tripti/Desktop/TestSet1/CorrectorOutput/page-401.html": {
+        "directory": "C:/Users/Tripti/Desktop/TestSet1/CorrectorOutput/page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/Tripti/Desktop/TestSet1/Inds/": {
+        "directory": "C:/Users/Tripti/Desktop/TestSet1/Inds/",
+        "seconds": 0
+    },
+    "C:/Users/Tripti/Desktop/TestSet1/Inds/page-401.txt": {
+        "directory": "C:/Users/Tripti/Desktop/TestSet1/Inds/page-401.txt",
+        "seconds": 0
+    },
+    "C:/Users/b/Desktop/TestSet1/CorrectorOutput//page-401.html": {
+        "directory": "C:/Users/b/Desktop/TestSet1/CorrectorOutput//page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/b/Desktop/TestSet1/CorrectorOutput/page-401.html": {
+        "directory": "C:/Users/b/Desktop/TestSet1/CorrectorOutput/page-401.html",
+        "seconds": 0
+    },
+    "C:/Users/b/Desktop/TestSet1/Inds/page-401.txt": {
+        "directory": "C:/Users/b/Desktop/TestSet1/Inds/page-401.txt",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput//page-1.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput//page-1.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput//page-2.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput//page-2.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput/page-1.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput/page-1.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput/page-2.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput/page-2.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput/page-3.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput/page-3.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/CorrectorOutput/page-4.html": {
+        "directory": "C:/dist/TestRepo/CorrectorOutput/page-4.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/Inds/": {
+        "directory": "C:/dist/TestRepo/Inds/",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/Inds/page-1.txt": {
+        "directory": "C:/dist/TestRepo/Inds/page-1.txt",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/Inds/page-4.txt": {
+        "directory": "C:/dist/TestRepo/Inds/page-4.txt",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/Inds/page-5.txt": {
+        "directory": "C:/dist/TestRepo/Inds/page-5.txt",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/Inds/page-7.txt": {
+        "directory": "C:/dist/TestRepo/Inds/page-7.txt",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput//page-2.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput//page-2.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-1.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-1.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-2.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-2.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-3.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-3.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-4.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-4.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-5.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-5.html",
+        "seconds": 0
+    },
+    "C:/dist/TestRepo/VerifierOutput/page-6.html": {
+        "directory": "C:/dist/TestRepo/VerifierOutput/page-6.html",
+        "seconds": 0
+    },
+    "Corrector:Untitled:V-13": {
+        "directory": "Corrector:Untitled:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-401.html:V-13": {
+        "directory": "Corrector:page-401.html:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-401.txt:V-13": {
+        "directory": "Corrector:page-401.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-402.txt:V-13": {
+        "directory": "Corrector:page-402.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-404.txt:V-13": {
+        "directory": "Corrector:page-404.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-406.txt:V-13": {
+        "directory": "Corrector:page-406.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-411.txt:V-13": {
+        "directory": "Corrector:page-411.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-413.txt:V-13": {
+        "directory": "Corrector:page-413.txt:V-13",
+        "seconds": 0
+    },
+    "Corrector:page-417.txt:V-13": {
+        "directory": "Corrector:page-417.txt:V-13",
+        "seconds": 0
+    },
+    "Verifier::V-0": {
+        "directory": "Verifier::V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0101.html:V-0": {
+        "directory": "Verifier:GK1_page-0101.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0102.html:V-0": {
+        "directory": "Verifier:GK1_page-0102.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0103.html:V-0": {
+        "directory": "Verifier:GK1_page-0103.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0104.html:V-0": {
+        "directory": "Verifier:GK1_page-0104.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0105.html:V-0": {
+        "directory": "Verifier:GK1_page-0105.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0106.html:V-0": {
+        "directory": "Verifier:GK1_page-0106.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0107.html:V-0": {
+        "directory": "Verifier:GK1_page-0107.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0108.html:V-0": {
+        "directory": "Verifier:GK1_page-0108.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0109.html:V-0": {
+        "directory": "Verifier:GK1_page-0109.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0110.html:V-0": {
+        "directory": "Verifier:GK1_page-0110.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0111.html:V-0": {
+        "directory": "Verifier:GK1_page-0111.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0112.html:V-0": {
+        "directory": "Verifier:GK1_page-0112.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0113.html:V-0": {
+        "directory": "Verifier:GK1_page-0113.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0114.html:V-0": {
+        "directory": "Verifier:GK1_page-0114.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0115.html:V-0": {
+        "directory": "Verifier:GK1_page-0115.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0116.html:V-0": {
+        "directory": "Verifier:GK1_page-0116.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0117.html:V-0": {
+        "directory": "Verifier:GK1_page-0117.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0118.html:V-0": {
+        "directory": "Verifier:GK1_page-0118.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0119.html:V-0": {
+        "directory": "Verifier:GK1_page-0119.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0120.html:V-0": {
+        "directory": "Verifier:GK1_page-0120.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0121.html:V-0": {
+        "directory": "Verifier:GK1_page-0121.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0122.html:V-0": {
+        "directory": "Verifier:GK1_page-0122.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0123.html:V-0": {
+        "directory": "Verifier:GK1_page-0123.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0124.html:V-0": {
+        "directory": "Verifier:GK1_page-0124.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0125.html:V-0": {
+        "directory": "Verifier:GK1_page-0125.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0126.html:V-0": {
+        "directory": "Verifier:GK1_page-0126.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0127.html:V-0": {
+        "directory": "Verifier:GK1_page-0127.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0128.html:V-0": {
+        "directory": "Verifier:GK1_page-0128.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0129.html:V-0": {
+        "directory": "Verifier:GK1_page-0129.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0130.html:V-0": {
+        "directory": "Verifier:GK1_page-0130.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0131.html:V-0": {
+        "directory": "Verifier:GK1_page-0131.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0132.html:V-0": {
+        "directory": "Verifier:GK1_page-0132.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0133.html:V-0": {
+        "directory": "Verifier:GK1_page-0133.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0134.html:V-0": {
+        "directory": "Verifier:GK1_page-0134.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0135.html:V-0": {
+        "directory": "Verifier:GK1_page-0135.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0136.html:V-0": {
+        "directory": "Verifier:GK1_page-0136.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0137.html:V-0": {
+        "directory": "Verifier:GK1_page-0137.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0138.html:V-0": {
+        "directory": "Verifier:GK1_page-0138.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0139.html:V-0": {
+        "directory": "Verifier:GK1_page-0139.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0140.html:V-0": {
+        "directory": "Verifier:GK1_page-0140.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0141.html:V-0": {
+        "directory": "Verifier:GK1_page-0141.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0142.html:V-0": {
+        "directory": "Verifier:GK1_page-0142.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0143.html:V-0": {
+        "directory": "Verifier:GK1_page-0143.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0144.html:V-0": {
+        "directory": "Verifier:GK1_page-0144.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0145.html:V-0": {
+        "directory": "Verifier:GK1_page-0145.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0146.html:V-0": {
+        "directory": "Verifier:GK1_page-0146.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0147.html:V-0": {
+        "directory": "Verifier:GK1_page-0147.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0148.html:V-0": {
+        "directory": "Verifier:GK1_page-0148.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0150.html:V-0": {
+        "directory": "Verifier:GK1_page-0150.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0151.html:V-0": {
+        "directory": "Verifier:GK1_page-0151.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0152.html:V-0": {
+        "directory": "Verifier:GK1_page-0152.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0153.html:V-0": {
+        "directory": "Verifier:GK1_page-0153.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0154.html:V-0": {
+        "directory": "Verifier:GK1_page-0154.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:GK1_page-0158.html:V-0": {
+        "directory": "Verifier:GK1_page-0158.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-401.html:V-10": {
+        "directory": "Verifier:page-401.html:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-401.txt:V-10": {
+        "directory": "Verifier:page-401.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-401.txt:V-12": {
+        "directory": "Verifier:page-401.txt:V-12",
+        "seconds": 0
+    },
+    "Verifier:page-402.html:V-10": {
+        "directory": "Verifier:page-402.html:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-402.txt:V-10": {
+        "directory": "Verifier:page-402.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-403.txt:V-10": {
+        "directory": "Verifier:page-403.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-404.txt:V-10": {
+        "directory": "Verifier:page-404.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-405.txt:V-10": {
+        "directory": "Verifier:page-405.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-406.txt:V-10": {
+        "directory": "Verifier:page-406.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-407.txt:V-10": {
+        "directory": "Verifier:page-407.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-408.txt:V-10": {
+        "directory": "Verifier:page-408.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-409.txt:V-10": {
+        "directory": "Verifier:page-409.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-410.txt:V-10": {
+        "directory": "Verifier:page-410.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-411.txt:V-10": {
+        "directory": "Verifier:page-411.txt:V-10",
+        "seconds": 0
+    },
+    "Verifier:page-412.txt:V-10": {
+        "directory": "Verifier:page-412.txt:V-10",
+        "seconds": 0
+    }
+}

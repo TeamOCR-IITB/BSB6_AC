@@ -1,0 +1,484 @@
+{
+    "AverageCharAccuracy": 99.98844146728516,
+    "AverageCharErrors": 0,
+    "AverageWordAccuracy": 99.95569610595703,
+    "AverageWordErrors": 0,
+    "Formatting": true,
+    "Rating-V0": 0,
+    "Rating-V1": 5,
+    "Rating-V10": 0,
+    "Rating-V11": 0,
+    "Rating-V12": 5,
+    "Rating-V13": 4,
+    "Rating-V9": 0,
+    "pages": {
+        "GK1_page-0101": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0101",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0102": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0102",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0103": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "mistake 1 - क्रयो - क्रयौ",
+            "pagename": "GK1_page-0103",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0104": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0104",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0105": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0105",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0106": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0106",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0107": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0107",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0108": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0108",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0109": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0109",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0110": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0110",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0111": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0111",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0112": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0112",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0113": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0113",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0114": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0114",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0115": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0115",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0116": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0116",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0117": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0117",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0118": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0118",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0119": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0119",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0120": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0120",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0121": {
+            "characcuracy": 99.8499984741211,
+            "charerrors": 1,
+            "comments": "",
+            "pagename": "GK1_page-0121",
+            "wordaccuracy": 99.43000030517578,
+            "worderrors": 1
+        },
+        "GK1_page-0122": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0122",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0123": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0123",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0124": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0124",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0125": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0125",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0126": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0126",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0127": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0127",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0128": {
+            "characcuracy": 99.69999694824219,
+            "charerrors": 2,
+            "comments": "",
+            "pagename": "GK1_page-0128",
+            "wordaccuracy": 98.69000244140625,
+            "worderrors": 2
+        },
+        "GK1_page-0129": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0129",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0130": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0130",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0131": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0131",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0132": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0132",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0133": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0133",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0134": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0134",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0135": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0135",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0136": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0136",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0137": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0137",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0138": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0138",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0139": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0139",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0140": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0140",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0141": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0141",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0142": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0142",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0143": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0143",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0144": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0144",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0145": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0145",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0146": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0146",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0147": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0147",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0148": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0148",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0150": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0150",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0151": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0151",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0152": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0152",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0153": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0153",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "GK1_page-0154": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "GK1_page-0154",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-1": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-1",
+            "rating": 5,
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-2": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-2",
+            "rating": 5,
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-3": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-3",
+            "rating": 5,
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-401": {
+            "characcuracy": 99.77999877929688,
+            "charerrors": 3,
+            "comments": "1. Mistake 1 - Correction",
+            "pagename": "page-401",
+            "rating": 5,
+            "wordaccuracy": 99.30999755859375,
+            "worderrors": 2
+        },
+        "page-410": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-410",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        }
+    }
+}
